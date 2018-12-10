@@ -1,0 +1,42 @@
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.pdb
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\WebDriver.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\WebDriver.xml
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.pdb
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\WebDriver.Support.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\WebDriver.Support.xml
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\AgileTestware.Bumblebee.Core.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\AgileTestware.Bumblebee.NUnit.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\AgileTestware.WebDriver.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\log4net.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\Newtonsoft.Json.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\nunit.framework.dll
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\log4net.xml
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\Newtonsoft.Json.xml
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\bin\Debug\nunit.framework.xml
+y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.csprojResolveAssemblyReference.cache
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.pdb
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\AgileTestware.Bumblebee.Core.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\AgileTestware.Bumblebee.NUnit.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\AgileTestware.WebDriver.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\log4net.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\Newtonsoft.Json.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\nunit.framework.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\WebDriver.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\WebDriver.Support.dll
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\log4net.xml
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\Newtonsoft.Json.xml
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\nunit.framework.xml
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\WebDriver.xml
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\WebDriver.Support.xml
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+Y:\Bureau\dll\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.dll
+Y:\Bureau\dll\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.pdb
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.dll.config
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\Newtonsoft.Json.pdb
+Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\nunit.framework.pdb

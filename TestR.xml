@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Failed" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.9.0.0" clr-version="4.0.30319.42000" start-time="2018-12-07 15:01:10Z" end-time="2018-12-07 15:01:37Z" duration="27.434615">
+  <command-line><![CDATA["C:\Program Files (x86)\NUnit.org\nunit-console\nunit3-console.exe"   UnitTestSeleniumP/bin/Debug/UnitTestSeleniumP.dll --result=TestR.xml]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="C:\Program Files (x86)\Jenkins\workspace\dll\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.dll" fullname="C:\Program Files (x86)\Jenkins\workspace\dll\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.dll" runstate="Runnable" testcasecount="1" result="Failed" duration="26.498657" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" site="Child">
+    <properties>
+      <property name="_PID" value="20052" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="Namespace" id="0-1003" name="UnitTestSeleniumP" fullname="UnitTestSeleniumP" runstate="Runnable" testcasecount="1" result="Failed" duration="26.486326" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" site="Child">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="0-1000" name="UntitledTestCase" fullname="UnitTestSeleniumP.UntitledTestCase" classname="UnitTestSeleniumP.UntitledTestCase" runstate="Runnable" testcasecount="1" result="Failed" duration="26.484788" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="0-1001" name="TheUntitledTestCaseTest" fullname="UnitTestSeleniumP.UntitledTestCase.TheUntitledTestCaseTest" methodname="TheUntitledTestCaseTest" classname="UnitTestSeleniumP.UntitledTestCase" runstate="Runnable" result="Failed" label="Error" duration="26.474418" asserts="1">
+          <failure>
+            <message><![CDATA[OpenQA.Selenium.NoSuchElementException : Unable to find element with xpath == (//input[@type='file'])[2]]]></message>
+            <stack-trace><![CDATA[   à OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   à OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   à OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   à UnitTestSeleniumP.UntitledTestCase.TheUntitledTestCaseTest() dans y:\mes documents\visual studio 2015\Projects\UnitTestSeleniumP\UnitTestSeleniumP\UnitTest1.cs:ligne 53]]></stack-trace>
+          </failure>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
