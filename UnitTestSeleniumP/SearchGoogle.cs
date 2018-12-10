@@ -13,7 +13,9 @@ namespace UnitTestSeleniumP
         [SetUp]
         public void Initialize()
         {
-            _driver = new InternetExplorerDriver(@"D:\S2H - POLE TEST ET CONFORMITE\Outils\IED\IEDriverServer_Win32_3.14.0\");
+            _driver = new InternetExplorerDriver(
+                @"D:\S2H - POLE TEST ET CONFORMITE\Outils\IED\IEDriverServer_Win32_3.14.0\");
+            _driver.Manage().Window.Maximize();
         }
 
         [Test]
@@ -48,7 +50,10 @@ namespace UnitTestSeleniumP
         [TearDown]
         public void EndTest()
         {
-            _driver.Close();
+            if (_driver != null)
+            {
+                _driver.Close();
+            }
         }
 
     }
