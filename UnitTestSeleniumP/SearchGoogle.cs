@@ -6,10 +6,10 @@ namespace UnitTestSeleniumP
 {
 
     [TestClass]
-    public class UntitledTestCase
+    public class SearchTestCase
     {
         [TestMethod]
-        public void TestMethod1()
+        public void SearchGoogle()
         {
             // initialisation du web driver, le chemin en paramètre est celui où se trouve le fichier IEDriverServer.exe
             IWebDriver driver = new InternetExplorerDriver(@"D:\S2H - POLE TEST ET CONFORMITE\Outils\IED\IEDriverServer_x64_3.14.0\");

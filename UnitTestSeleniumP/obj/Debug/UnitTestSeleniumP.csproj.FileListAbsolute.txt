@@ -40,3 +40,26 @@ Y:\Bureau\dll\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.pdb
 Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.dll.config
 Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\Newtonsoft.Json.pdb
 Y:\Bureau\dll\UnitTestSeleniumP\bin\Debug\nunit.framework.pdb
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.dll.config
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\UnitTestSeleniumP.pdb
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\AgileTestware.Bumblebee.Core.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\AgileTestware.Bumblebee.NUnit.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\AgileTestware.WebDriver.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\log4net.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\Newtonsoft.Json.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\nunit.framework.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\WebDriver.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\WebDriver.Support.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\log4net.xml
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\Newtonsoft.Json.pdb
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\Newtonsoft.Json.xml
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\nunit.framework.pdb
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\nunit.framework.xml
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\WebDriver.xml
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\WebDriver.Support.xml
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.csprojResolveAssemblyReference.cache
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.dll
+D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.pdb
