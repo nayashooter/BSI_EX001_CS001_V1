@@ -1,14 +1,14 @@
-﻿using OpenQA.Selenium;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using NUnit.Framework;
+using OpenQA.Selenium;
 using OpenQA.Selenium.IE;
 
 namespace UnitTestSeleniumP
 {
 
-    [TestClass]
+    [TestFixture]
     public class SearchTestCase
     {
-        [TestMethod]
+        [Test]
         public void SearchGoogle()
         {
             // initialisation du web driver, le chemin en paramètre est celui où se trouve le fichier IEDriverServer.exe
