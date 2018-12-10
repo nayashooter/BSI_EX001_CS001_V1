@@ -34,6 +34,8 @@ namespace UnitTestSeleniumP
             dans notre exemple c'est la textbox de recherche google */
             _driver.FindElement(By.Name("q")).SendKeys("news");
 
+            _driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+
             // lance la recherche
             _driver.FindElement(By.Name("q")).Submit();
 

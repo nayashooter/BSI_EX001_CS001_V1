@@ -60,6 +60,5 @@ D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug
 D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\WebDriver.xml
 D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\WebDriver.Support.xml
 D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.csprojResolveAssemblyReference.cache
 D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.dll
 D:\S2H - POLE TEST ET CONFORMITE\Workspace\NUnit\dll\UnitTestSeleniumP\obj\Debug\UnitTestSeleniumP.pdb
