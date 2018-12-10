@@ -14,8 +14,16 @@ namespace UnitTestSeleniumP
         [SetUp]
         public void Initialize()
         {
-            _driver = new InternetExplorerDriver(
-                @"D:\S2H - POLE TEST ET CONFORMITE\Outils\IED\IEDriverServer_Win32_3.14.0\");
+            Proxy proxy = new Proxy {HttpProxy = "inetproxy:83", SslProxy = "inetproxy:83", Kind = ProxyKind.Manual, IsAutoDetect = false};
+
+            InternetExplorerOptions options = new InternetExplorerOptions
+            {
+
+                //UsePerProcessProxy = true,
+                Proxy = proxy
+            };
+
+            _driver = new InternetExplorerDriver( @"D:\S2H - POLE TEST ET CONFORMITE\Outils\IED\IEDriverServer_Win32_3.14.0\", options);
             _driver.Manage().Window.Maximize();
         }
 
