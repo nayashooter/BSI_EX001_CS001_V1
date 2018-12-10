@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using System;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.IE;
 
@@ -21,8 +22,13 @@ namespace UnitTestSeleniumP
         [Test]
         public void SearchGoogle()
         {
+            _driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+
             // se rend à la page www.google.fr
             _driver.Navigate().GoToUrl("http://www.google.fr");
+
+
+            _driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
 
             /* recherche sur la page l'élément dont le nom est q et y rentre rien,
             dans notre exemple c'est la textbox de recherche google */
