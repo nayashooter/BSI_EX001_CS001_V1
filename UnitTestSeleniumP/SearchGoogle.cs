@@ -28,13 +28,11 @@ namespace UnitTestSeleniumP
             _driver.Navigate().GoToUrl("http://www.google.fr");
 
 
-            _driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+            _driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(120);
 
             /* recherche sur la page l'élément dont le nom est q et y rentre rien,
             dans notre exemple c'est la textbox de recherche google */
             _driver.FindElement(By.XPath("//*[@id=\"tsf\"]/div[2]/div/div[1]/div/div[1]/input")).SendKeys("news");
-
-           
 
             _driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
 
